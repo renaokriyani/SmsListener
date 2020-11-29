@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SmsListenerApp</string>
+    <string name="ini_aplikasi_sms_receiver">Ini Aplikasi Sms Receiver</string>
+</resources>
